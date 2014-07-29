@@ -1,4 +1,4 @@
-website
+Website
 =======
 <head>
   <title>Cassandra Castelant</title>
@@ -7,12 +7,7 @@ website
   <p>Welcome To My Lair</p>
   <div><img src="http://www.shannonrealty.com/files/open_doors_transparent.gif"></div>
   <div id="header">
-      
-    </div>
-    <div class="left"></div>
-    <div class="right">
-      <h4>Who's Dat?</h4>
-      <p id="name">Cassandra Castelant</p>
+  
   <h1> Library</h1>
   <h5> My Collection Of "Great" Literary Works </h5>
   <h6> Audio</h6>
