@@ -1,6 +1,5 @@
 website
 =======
-<!DOCTYPE html> 
 <head>
   <title>Cassandra Castelant</title>
   <style>
