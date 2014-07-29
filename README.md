@@ -2,38 +2,7 @@ website
 =======
 <head>
   <title>Cassandra Castelant</title>
-  <style>
-    body {
-      text-align: center;
-      background: url("http://www.agreenerfestival.com/wp-content/uploads/space-hubble.jpg");
-      background-size: cover;
-      background-position: center;
-      color: white;
-      font-family: Times;
-    }
-    p {
-      font-size: 32px;
-      position: left;
-    }
-    input {
-      border: 0;
-      padding: 10px;
-      font-size: 18px;
-      background-position: center
-    }
-    input[type="submit"] {
-      background: black;
-      color: white;
-      position: center;
-    }
-    img {
-      background-position: center;
-    }
-    ul {
-      text-decoration: none;
-    }
-  </style>
-</head>
+  </head>
 <body>
   <p>Welcome To My Lair</p>
   <div><img src="http://www.shannonrealty.com/files/open_doors_transparent.gif"></div>
